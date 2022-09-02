@@ -1,0 +1,9 @@
+Flight 1: Detroit, Chicago (Time)
+Path 1: Detroit -> Chicago. Time: 44 Cost: 70.00
+Path 2: Detroit -> Fresno -> Chicago. Time: 103 Cost: 335.00
+Path 3: Detroit -> El Paso -> Greensboro -> Chicago. Time: 156 Cost: 278.00
+
+Flight 2: Fresno, El Paso (Time)
+Path 1: Fresno -> Detroit -> El Paso. Time: 124 Cost: 325.00
+Path 2: Fresno -> Chicago -> Greensboro -> El Paso. Time: 135 Cost: 288.00
+Path 3: Fresno -> Detroit -> Billings -> El Paso. Time: 158 Cost: 415.00
